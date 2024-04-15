@@ -5,5 +5,5 @@
 - 📫 How to reach me
   - Discord: eldritchbeautiful
   - Email: eldritchbeautiful@gmail.com
-- 😄 Pronouns: He/Him, but no pressure.
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: The abyss isn't endless. 
