@@ -6,4 +6,3 @@
   - Discord: eldritchbeautiful
   - Email: eldritchbeautiful@gmail.com
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: The abyss isn't endless. 
