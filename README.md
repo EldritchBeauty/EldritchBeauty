@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EldritchBeauty, or Troy, or Gab.
 - 👀 I’m interested in Programming, Game Development, and Fantasy.
-- 🌱 I’m currently learning 3d Animation, REACT and JQuery.
+- 🌱 I’m currently learning Javascript and PHP
 - 💞️ I’m looking for a Programming Mentor.
 - 📫 How to reach me
   - Discord: eldritchbeautiful
