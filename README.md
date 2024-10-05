@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @EldritchBeauty, or Troy, or Gab.
+- 👋 Hi, I’m @EldritchBeauty, or Troy
 - 👀 I’m interested in Programming, Game Development, and Fantasy.
-- 🌱 I’m currently learning Javascript and PHP
-- 💞️ I’m looking for a Programming Mentor.
 - 📫 How to reach me
   - Discord: eldritchbeautiful
   - Email: eldritchbeautiful@gmail.com
