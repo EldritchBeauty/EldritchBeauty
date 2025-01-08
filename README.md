@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EldritchBeauty, or Troy
-- 👀 I’m interested in Programming, Game Development, and Fantasy.
+- 👀 I’m interested in Game Development and Writing.
 - 📫 How to reach me
   - Discord: eldritchbeautiful
   - Email: eldritchbeautiful@gmail.com
